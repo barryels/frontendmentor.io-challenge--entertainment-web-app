@@ -1,0 +1,23 @@
+{
+  "name": "frontendmentor.io-challenge--entertainment-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barryels/frontendmentor.io-challenge--entertainment-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barryels/frontendmentor.io-challenge--entertainment-web-app/issues"
+  },
+  "homepage": "https://github.com/barryels/frontendmentor.io-challenge--entertainment-web-app#readme",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
