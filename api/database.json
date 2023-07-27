@@ -1,0 +1,385 @@
+{
+  "media": [
+    {
+      "id": "ebf4d927-719e-449c-a951-4ab48a2b0469",
+      "title": "Beyond Earth",
+      "type": "MOVIE",
+      "rating": "PG",
+      "isTrending": true,
+      "images": {
+        "large": "${SERVER_URI}/content/ebf4d927-719e-449c-a951-4ab48a2b0469/large.jpg",
+        "medium": "${SERVER_URI}/content/ebf4d927-719e-449c-a951-4ab48a2b0469/medium.jpg",
+        "small": "${SERVER_URI}/content/ebf4d927-719e-449c-a951-4ab48a2b0469/small.jpg"
+      },
+      "year": 2019
+    },
+    {
+      "id": "fa2ffccd-f9fb-4d5f-a55a-5638f7d5b27b",
+      "title": "Bottom Gear",
+      "type": "MOVIE",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/fa2ffccd-f9fb-4d5f-a55a-5638f7d5b27b/large.jpg",
+        "medium": "${SERVER_URI}/content/fa2ffccd-f9fb-4d5f-a55a-5638f7d5b27b/medium.jpg",
+        "small": "${SERVER_URI}/content/fa2ffccd-f9fb-4d5f-a55a-5638f7d5b27b/small.jpg"
+      },
+      "year": 2021
+    },
+    {
+      "id": "bc8bb1c3-18d7-4f77-b15d-8ac3205b9082",
+      "title": "Undiscovered Cities",
+      "type": "TV_SHOW",
+      "rating": "E",
+      "isTrending": true,
+      "images": {
+        "large": "${SERVER_URI}/content/bc8bb1c3-18d7-4f77-b15d-8ac3205b9082/large.jpg",
+        "medium": "${SERVER_URI}/content/bc8bb1c3-18d7-4f77-b15d-8ac3205b9082/medium.jpg",
+        "small": "${SERVER_URI}/content/bc8bb1c3-18d7-4f77-b15d-8ac3205b9082/small.jpg"
+      },
+      "year": 2019
+    },
+    {
+      "id": "0f13fbd8-cf95-4936-bf71-253a6d3be97d",
+      "title": "1998",
+      "type": "MOVIE",
+      "rating": "18+",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/0f13fbd8-cf95-4936-bf71-253a6d3be97d/large.jpg",
+        "medium": "${SERVER_URI}/content/0f13fbd8-cf95-4936-bf71-253a6d3be97d/medium.jpg",
+        "small": "${SERVER_URI}/content/0f13fbd8-cf95-4936-bf71-253a6d3be97d/small.jpg"
+      },
+      "year": 2021
+    },
+    {
+      "id": "0d61df7e-5de8-4867-94bb-43b55bd97c84",
+      "title": "Dark Side of the Moon",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": true,
+      "images": {
+        "large": "${SERVER_URI}/content/0d61df7e-5de8-4867-94bb-43b55bd97c84/large.jpg",
+        "medium": "${SERVER_URI}/content/0d61df7e-5de8-4867-94bb-43b55bd97c84/medium.jpg",
+        "small": "${SERVER_URI}/content/0d61df7e-5de8-4867-94bb-43b55bd97c84/small.jpg"
+      },
+      "year": 2018
+    },
+    {
+      "id": "e7e190b0-e18c-4abb-a7b4-a2d7ebdc5403",
+      "title": "The Great Lands",
+      "type": "MOVIE",
+      "rating": "E",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/e7e190b0-e18c-4abb-a7b4-a2d7ebdc5403/large.jpg",
+        "medium": "${SERVER_URI}/content/e7e190b0-e18c-4abb-a7b4-a2d7ebdc5403/medium.jpg",
+        "small": "${SERVER_URI}/content/e7e190b0-e18c-4abb-a7b4-a2d7ebdc5403/small.jpg"
+      },
+      "year": 2019
+    },
+    {
+      "id": "f833f202-714a-45ca-a29b-83b534caf6f6",
+      "title": "The Diary",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/f833f202-714a-45ca-a29b-83b534caf6f6/large.jpg",
+        "medium": "${SERVER_URI}/content/f833f202-714a-45ca-a29b-83b534caf6f6/medium.jpg",
+        "small": "${SERVER_URI}/content/f833f202-714a-45ca-a29b-83b534caf6f6/small.jpg"
+      },
+      "year": 2019
+    },
+    {
+      "id": "bd59dc1e-b778-4621-b630-beb0cb8b980f",
+      "title": "Earth’s Untouched",
+      "type": "MOVIE",
+      "rating": "18+",
+      "isTrending": true,
+      "images": {
+        "large": "${SERVER_URI}/content/bd59dc1e-b778-4621-b630-beb0cb8b980f/large.jpg",
+        "medium": "${SERVER_URI}/content/bd59dc1e-b778-4621-b630-beb0cb8b980f/medium.jpg",
+        "small": "${SERVER_URI}/content/bd59dc1e-b778-4621-b630-beb0cb8b980f/small.jpg"
+      },
+      "year": 2017
+    },
+    {
+      "id": "bffca817-5feb-4099-be44-bce83af9855a",
+      "title": "No Land Beyond",
+      "type": "MOVIE",
+      "rating": "E",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/bffca817-5feb-4099-be44-bce83af9855a/large.jpg",
+        "medium": "${SERVER_URI}/content/bffca817-5feb-4099-be44-bce83af9855a/medium.jpg",
+        "small": "${SERVER_URI}/content/bffca817-5feb-4099-be44-bce83af9855a/small.jpg"
+      },
+      "year": 2019
+    },
+    {
+      "id": "fddc5acf-40c2-49e2-9373-0dcdcca719db",
+      "title": "During the Hunt",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/fddc5acf-40c2-49e2-9373-0dcdcca719db/large.jpg",
+        "medium": "${SERVER_URI}/content/fddc5acf-40c2-49e2-9373-0dcdcca719db/medium.jpg",
+        "small": "${SERVER_URI}/content/fddc5acf-40c2-49e2-9373-0dcdcca719db/small.jpg"
+      },
+      "year": 2016
+    },
+    {
+      "id": "c27c3f35-bd40-422d-956f-127ee13ac6a0",
+      "title": "Autosport the Series",
+      "type": "TV_SHOW",
+      "rating": "18+",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/c27c3f35-bd40-422d-956f-127ee13ac6a0/large.jpg",
+        "medium": "${SERVER_URI}/content/c27c3f35-bd40-422d-956f-127ee13ac6a0/medium.jpg",
+        "small": "${SERVER_URI}/content/c27c3f35-bd40-422d-956f-127ee13ac6a0/small.jpg"
+      },
+      "year": 2016
+    },
+    {
+      "id": "3f2b2cba-84f0-4287-a03c-6712cc9f21a7",
+      "title": "Same Answer II",
+      "type": "MOVIE",
+      "rating": "E",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/3f2b2cba-84f0-4287-a03c-6712cc9f21a7/large.jpg",
+        "medium": "${SERVER_URI}/content/3f2b2cba-84f0-4287-a03c-6712cc9f21a7/medium.jpg",
+        "small": "${SERVER_URI}/content/3f2b2cba-84f0-4287-a03c-6712cc9f21a7/small.jpg"
+      },
+      "year": 2017
+    },
+    {
+      "id": "56df3c14-bdb8-4325-929d-22491930cc37",
+      "title": "Below Echo",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/56df3c14-bdb8-4325-929d-22491930cc37/large.jpg",
+        "medium": "${SERVER_URI}/content/56df3c14-bdb8-4325-929d-22491930cc37/medium.jpg",
+        "small": "${SERVER_URI}/content/56df3c14-bdb8-4325-929d-22491930cc37/small.jpg"
+      },
+      "year": 2016
+    },
+    {
+      "id": "c5d7281f-5149-492f-8760-cc999e1534a3",
+      "title": "The Rockies",
+      "type": "TV_SHOW",
+      "rating": "E",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/c5d7281f-5149-492f-8760-cc999e1534a3/large.jpg",
+        "medium": "${SERVER_URI}/content/c5d7281f-5149-492f-8760-cc999e1534a3/medium.jpg",
+        "small": "${SERVER_URI}/content/c5d7281f-5149-492f-8760-cc999e1534a3/small.jpg"
+      },
+      "year": 2015
+    },
+    {
+      "id": "d801c169-f067-4bbf-877c-e12a4383c608",
+      "title": "Relentless",
+      "type": "MOVIE",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/d801c169-f067-4bbf-877c-e12a4383c608/large.jpg",
+        "medium": "${SERVER_URI}/content/d801c169-f067-4bbf-877c-e12a4383c608/medium.jpg",
+        "small": "${SERVER_URI}/content/d801c169-f067-4bbf-877c-e12a4383c608/small.jpg"
+      },
+      "year": 2017
+    },
+    {
+      "id": "cde58caf-f121-468f-9169-0c1d374060ed",
+      "title": "Community of Ours",
+      "type": "TV_SHOW",
+      "rating": "18+",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/cde58caf-f121-468f-9169-0c1d374060ed/large.jpg",
+        "medium": "${SERVER_URI}/content/cde58caf-f121-468f-9169-0c1d374060ed/medium.jpg",
+        "small": "${SERVER_URI}/content/cde58caf-f121-468f-9169-0c1d374060ed/small.jpg"
+      },
+      "year": 2018
+    },
+    {
+      "id": "00b54ca7-6dd1-40b3-a64c-74ddf0a2adb4",
+      "title": "Van Life",
+      "type": "MOVIE",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/00b54ca7-6dd1-40b3-a64c-74ddf0a2adb4/large.jpg",
+        "medium": "${SERVER_URI}/content/00b54ca7-6dd1-40b3-a64c-74ddf0a2adb4/medium.jpg",
+        "small": "${SERVER_URI}/content/00b54ca7-6dd1-40b3-a64c-74ddf0a2adb4/small.jpg"
+      },
+      "year": 2015
+    },
+    {
+      "id": "114359b9-807b-4cc2-931a-4d0b451974bb",
+      "title": "The Heiress",
+      "type": "MOVIE",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/114359b9-807b-4cc2-931a-4d0b451974bb/large.jpg",
+        "medium": "${SERVER_URI}/content/114359b9-807b-4cc2-931a-4d0b451974bb/medium.jpg",
+        "small": "${SERVER_URI}/content/114359b9-807b-4cc2-931a-4d0b451974bb/small.jpg"
+      },
+      "year": 2021
+    },
+    {
+      "id": "cdba6ec1-e66d-47bf-92b8-a4d6d0ff1d0e",
+      "title": "Off the Track",
+      "type": "MOVIE",
+      "rating": "18+",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/cdba6ec1-e66d-47bf-92b8-a4d6d0ff1d0e/large.jpg",
+        "medium": "${SERVER_URI}/content/cdba6ec1-e66d-47bf-92b8-a4d6d0ff1d0e/medium.jpg",
+        "small": "${SERVER_URI}/content/cdba6ec1-e66d-47bf-92b8-a4d6d0ff1d0e/small.jpg"
+      },
+      "year": 2017
+    },
+    {
+      "id": "79c4cf41-520f-4d9d-bf0a-98a23532c499",
+      "title": "Whispering Hill",
+      "type": "MOVIE",
+      "rating": "E",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/79c4cf41-520f-4d9d-bf0a-98a23532c499/large.jpg",
+        "medium": "${SERVER_URI}/content/79c4cf41-520f-4d9d-bf0a-98a23532c499/medium.jpg",
+        "small": "${SERVER_URI}/content/79c4cf41-520f-4d9d-bf0a-98a23532c499/small.jpg"
+      },
+      "year": 2017
+    },
+    {
+      "id": "73aa30d7-6534-4406-9c99-ee6ef415cf52",
+      "title": "112",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/73aa30d7-6534-4406-9c99-ee6ef415cf52/large.jpg",
+        "medium": "${SERVER_URI}/content/73aa30d7-6534-4406-9c99-ee6ef415cf52/medium.jpg",
+        "small": "${SERVER_URI}/content/73aa30d7-6534-4406-9c99-ee6ef415cf52/small.jpg"
+      },
+      "year": 2013
+    },
+    {
+      "id": "4a166f64-ea31-465c-b1b1-03e546727077",
+      "title": "Lone Heart",
+      "type": "MOVIE",
+      "rating": "E",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/4a166f64-ea31-465c-b1b1-03e546727077/large.jpg",
+        "medium": "${SERVER_URI}/content/4a166f64-ea31-465c-b1b1-03e546727077/medium.jpg",
+        "small": "${SERVER_URI}/content/4a166f64-ea31-465c-b1b1-03e546727077/small.jpg"
+      },
+      "year": 2017
+    },
+    {
+      "id": "b420971a-1ad9-42e4-a376-2b78065f392a",
+      "title": "Production Line",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/b420971a-1ad9-42e4-a376-2b78065f392a/large.jpg",
+        "medium": "${SERVER_URI}/content/b420971a-1ad9-42e4-a376-2b78065f392a/medium.jpg",
+        "small": "${SERVER_URI}/content/b420971a-1ad9-42e4-a376-2b78065f392a/small.jpg"
+      },
+      "year": 2018
+    },
+    {
+      "id": "ac589a44-7f11-4940-bdf8-7f02dd44838f",
+      "title": "Dogs",
+      "type": "TV_SHOW",
+      "rating": "E",
+      "isTrending": true,
+      "images": {
+        "large": "${SERVER_URI}/content/ac589a44-7f11-4940-bdf8-7f02dd44838f/large.jpg",
+        "medium": "${SERVER_URI}/content/ac589a44-7f11-4940-bdf8-7f02dd44838f/medium.jpg",
+        "small": "${SERVER_URI}/content/ac589a44-7f11-4940-bdf8-7f02dd44838f/small.jpg"
+      },
+      "year": 2016
+    },
+    {
+      "id": "e763becd-9b36-4b44-83ee-8e15951ebbc1",
+      "title": "Asia in 24 Days",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/e763becd-9b36-4b44-83ee-8e15951ebbc1/large.jpg",
+        "medium": "${SERVER_URI}/content/e763becd-9b36-4b44-83ee-8e15951ebbc1/medium.jpg",
+        "small": "${SERVER_URI}/content/e763becd-9b36-4b44-83ee-8e15951ebbc1/small.jpg"
+      },
+      "year": 2020
+    },
+    {
+      "id": "6bf19000-abc7-4ac8-a42e-1aab413eeb8c",
+      "title": "The Tasty Tour",
+      "type": "TV_SHOW",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/6bf19000-abc7-4ac8-a42e-1aab413eeb8c/large.jpg",
+        "medium": "${SERVER_URI}/content/6bf19000-abc7-4ac8-a42e-1aab413eeb8c/medium.jpg",
+        "small": "${SERVER_URI}/content/6bf19000-abc7-4ac8-a42e-1aab413eeb8c/small.jpg"
+      },
+      "year": 2016
+    },
+    {
+      "id": "b259a226-99e3-4745-a92c-a88f685a6a74",
+      "title": "Darker",
+      "type": "MOVIE",
+      "rating": "18+",
+      "isTrending": true,
+      "images": {
+        "large": "${SERVER_URI}/content/b259a226-99e3-4745-a92c-a88f685a6a74/large.jpg",
+        "medium": "${SERVER_URI}/content/b259a226-99e3-4745-a92c-a88f685a6a74/medium.jpg",
+        "small": "${SERVER_URI}/content/b259a226-99e3-4745-a92c-a88f685a6a74/small.jpg"
+      },
+      "year": 2017
+    },
+    {
+      "id": "81a14b2d-8d6d-474f-ba6b-40fcc866f811",
+      "title": "Unresolved Cases",
+      "type": "TV_SHOW",
+      "rating": "18+",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/81a14b2d-8d6d-474f-ba6b-40fcc866f811/large.jpg",
+        "medium": "${SERVER_URI}/content/81a14b2d-8d6d-474f-ba6b-40fcc866f811/medium.jpg",
+        "small": "${SERVER_URI}/content/81a14b2d-8d6d-474f-ba6b-40fcc866f811/small.jpg"
+      },
+      "year": 2018
+    },
+    {
+      "id": "8d014468-54de-4ef0-b631-187ee7f47c65",
+      "title": "Mission: Saturn",
+      "type": "MOVIE",
+      "rating": "PG",
+      "isTrending": false,
+      "images": {
+        "large": "${SERVER_URI}/content/8d014468-54de-4ef0-b631-187ee7f47c65/large.jpg",
+        "medium": "${SERVER_URI}/content/8d014468-54de-4ef0-b631-187ee7f47c65/medium.jpg",
+        "small": "${SERVER_URI}/content/8d014468-54de-4ef0-b631-187ee7f47c65/small.jpg"
+      },
+      "year": 2017
+    }
+  ],
+  "trending-media": ["ebf4d927-719e-449c-a951-4ab48a2b0469", "fa2ffccd-f9fb-4d5f-a55a-5638f7d5b27b", "bc8bb1c3-18d7-4f77-b15d-8ac3205b9082", "0f13fbd8-cf95-4936-bf71-253a6d3be97d", "0d61df7e-5de8-4867-94bb-43b55bd97c84"],
+  "me": {
+    "bookmarks": ["0d61df7e-5de8-4867-94bb-43b55bd97c84", "bd59dc1e-b778-4621-b630-beb0cb8b980f", "c5d7281f-5149-492f-8760-cc999e1534a3", "d801c169-f067-4bbf-877c-e12a4383c608", "114359b9-807b-4cc2-931a-4d0b451974bb", "cdba6ec1-e66d-47bf-92b8-a4d6d0ff1d0e", "4a166f64-ea31-465c-b1b1-03e546727077", "ac589a44-7f11-4940-bdf8-7f02dd44838f", "b259a226-99e3-4745-a92c-a88f685a6a74", "8d014468-54de-4ef0-b631-187ee7f47c65"]
+  }
+}
