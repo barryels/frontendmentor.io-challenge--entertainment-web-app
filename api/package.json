@@ -1,0 +1,16 @@
+{
+  "name": "frontendmentor.io-challenge--entertainment-web-app--api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "predev": "npm install",
+    "dev": "npx nodemon -e json,js index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "prettier": "^3.0.0"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

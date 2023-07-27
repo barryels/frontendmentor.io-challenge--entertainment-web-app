@@ -2,30 +2,21 @@
   "name": "frontendmentor.io-challenge--entertainment-web-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "predev": "npm install",
-    "dev": "npx concurrently \"npm:mock-api-server\" \"npm:test:chrome\" \"npm:serve\"",
-    "serve": "npx http-server -p 8080 ./src",
-    "mock-api-server": "npx nodemon -e json,js api/index.js",
-    "test": "npm run test:headless",
-    "test:headless": "cypress run",
-    "test:chrome": "cypress open --browser=chrome and --e2e"
-  },
+  "keywords": [],
+  "author": "Barry Els <barryels@gmail.com>",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/barryels/frontendmentor.io-challenge--entertainment-web-app.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "homepage": "https://github.com/barryels/frontendmentor.io-challenge--entertainment-web-app#readme",
   "bugs": {
     "url": "https://github.com/barryels/frontendmentor.io-challenge--entertainment-web-app/issues"
   },
-  "homepage": "https://github.com/barryels/frontendmentor.io-challenge--entertainment-web-app#readme",
-  "devDependencies": {
-    "@testing-library/cypress": "^9.0.0",
-    "cypress": "^12.17.2",
-    "json-server": "^0.17.3"
+  "scripts": {
+    "dev": "npx concurrently \"npm:dev:api\" \"npm:dev:app\" \"npm:dev:spec\"",
+    "dev:api": "cd api && npm run dev",
+    "dev:app": "cd app && npm run dev",
+    "dev:spec": "cd spec && npm run dev"
   }
 }
