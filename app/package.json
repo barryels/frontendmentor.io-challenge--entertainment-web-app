@@ -5,22 +5,13 @@
   "type": "module",
   "scripts": {
     "predev": "npm install",
-    "dev": "npx concurrently \"npm:mock-api-server\" \"npm:serve\"",
-    "serve": "web-dev-server -p 8080 ./src",
-    "build": "rollup -c",
-    "mock-api-server": "npx nodemon -e json,js api/index.js"
+    "dev": "vite",
+    "build": "vite build"
   },
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^15.1.0",
-    "@rollup/plugin-terser": "^0.4.3",
-    "@web/dev-server": "^0.3.0",
-    "@web/rollup-plugin-copy": "^0.4.0",
-    "@web/rollup-plugin-html": "^2.0.0",
     "eslint": "^8.45.0",
     "prettier": "^3.0.0",
-    "rollup": "^2.79.1",
-    "rollup-plugin-minify-html-literals": "^1.2.6",
-    "rollup-plugin-summary": "^2.0.0"
+    "vite": "^4.4.8"
   },
   "dependencies": {
     "lit": "^2.7.6"

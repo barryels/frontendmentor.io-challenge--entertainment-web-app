@@ -21,7 +21,9 @@ function routes() {
       path: "/search",
     },
   ].map((route) => {
-    route.url = `${Cypress.config().baseUrl}${Cypress.env("ROUTING_PREFIX") || ""}${route.path}`;
+    route.url = `${Cypress.config().baseUrl}${
+      Cypress.env("ROUTING_PREFIX") || ""
+    }${route.path}`;
     return route;
   });
 }
@@ -39,7 +41,9 @@ export function currentPageShouldBe(pageName) {
 }
 
 export function currentPageShouldNotBe(pageName) {
-  return cy.location("href").should("not.eq", getPageRouteFromName(pageName).url);
+  return cy
+    .location("href")
+    .should("not.eq", getPageRouteFromName(pageName).url);
 }
 
 export function headingShouldBeVisible(name) {
@@ -72,4 +76,16 @@ export function buttonShouldBeVisible(name) {
 
 export function clickButton(name) {
   return cy.findByRole("button", { name: name }).click();
+}
+
+export function findAppHeader() {
+  return cy.find("app-header").shadow();
+}
+
+export function getAppHeader() {
+  return cy.get("app-header").shadow();
+}
+
+export function findAppHeaderNavigationLink(name) {
+  return getAppHeader().findByRole("link", { name: name });
 }

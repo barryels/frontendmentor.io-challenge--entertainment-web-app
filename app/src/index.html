@@ -6,13 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Entertainment Web App</title>
 
-    <script
-      type="module"
-      src="src/components/app-header/app-header.js"
-    ></script>
+    <style>
+      :root {
+        --theme-color: #f00;
+      }
+    </style>
+    <script type="module" src="components/app-header/app-header.js"></script>
   </head>
 
   <body>
     <app-header></app-header>
+
+    <h1>Home</h1>
+    <h2 style="color: var(--theme-color)">Something</h2>
   </body>
 </html>
